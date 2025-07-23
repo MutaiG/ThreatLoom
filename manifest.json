@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "2.0.0",
+  "info": {
+    "title": "ThreatLoom CTI Fusion Hub",
+    "id": {
+      "group": null,
+      "name": "threat_loom_cti",
+      "version": "1.0.0"
+    },
+    "author": [
+      {
+        "name": "Splunk",
+        "email": "support@splunk.com",
+        "company": "Splunk Inc."
+      }
+    ],
+    "releaseDate": null,
+    "description": "Real-time Cyber Threat Intelligence Fusion Hub for SOC teams. Provides unified threat indicators, anomaly detection, and event correlations.",
+    "classification": {
+      "intendedAudience": "IT Security Professionals",
+      "categories": ["Security", "IT Operations", "Threat Intelligence"],
+      "developmentStatus": "Production/Stable"
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": "Splunk General Terms",
+      "text": "./LICENSE",
+      "uri": "https://www.splunk.com/en_us/legal/splunk-general-terms.html"
+    },
+    "privacyPolicy": {
+      "name": "Splunk Privacy Policy",
+      "text": null,
+      "uri": "https://www.splunk.com/en_us/legal/privacy/privacy-policy.html"
+    },
+    "releaseNotes": {
+      "name": "README",
+      "text": "./README.md",
+      "uri": null
+    }
+  },
+  "dependencies": null,
+  "tasks": null,
+  "inputGroups": null,
+  "incompatibleApps": null,
+  "platformRequirements": {
+    "splunk": {
+      "Enterprise": ">=8.0.0"
+    }
+  },
+  "supportedDeployments": ["*"],
+  "targetWorkloads": ["*"]
+}

@@ -1,0 +1,11 @@
+<view>
+  <label>ThreatLoom</label>
+  <html>
+    <![CDATA[
+      <div id="root" style="width: 100vw; height: 100vh;"></div>
+      <script src="/static/app/ThreatLoom/js/runtime.js"></script>
+      <script src="/static/app/ThreatLoom/js/vendors.4ff81f380dc03d53b5b1.js"></script>
+      <script src="/static/app/ThreatLoom/js/main.js"></script>
+    ]]>
+  </html>
+</view>

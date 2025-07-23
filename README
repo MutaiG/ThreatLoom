@@ -1,0 +1,24 @@
+# ThreatLoom - Cyber Threat Intelligence Fusion Hub
+
+A comprehensive threat intelligence dashboard for Splunk Cloud/Enterprise.
+
+## Features
+
+-   Real-time threat monitoring
+-   Interactive dashboards
+-   Threat analytics and correlation
+-   Incident response workflows
+
+## Installation
+
+1. Upload the ThreatLoom app to your Splunk environment
+2. Restart Splunk
+3. Navigate to the ThreatLoom app
+
+## Building from Source
+
+Run `node build.js` to build the React app and prepare for Splunk deployment.
+
+## Version
+
+1.0.0
